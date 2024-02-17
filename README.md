@@ -1,3 +1,28 @@
+# README.md
+
+## 手順
+
+1. ターミナルにて下記の作業を実施
+
+```bash
+npx create-next-app route-handlers-demo
+
+(省略)ほとんどディフォルトのままリターンで対応
+※　一部＠を使いますかに対してだけyesでリターン
+
+cd route-handlers-demo
+code . # vscodeを起動
+
+```
+
+2. これ以降はVSCodeで作業
+
+## 教材動画との関連
+
+1. Next.js 14 Tutorial - 33 - Route Handlers [ルートハンドラー](https://youtu.be/25yY2RVRq_M?si=2B4FznpNTQJ2Ye_i)
+
+<hr>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

@@ -22,6 +22,7 @@ code . # vscodeを起動
 1. Next.js 14 Tutorial - 33 - Route Handlers [ルートハンドラー](https://youtu.be/25yY2RVRq_M?si=2B4FznpNTQJ2Ye_i)
 2. Next.js 14 Tutorial - 34 - Handling GET Request [Get Requestの操作](https://youtu.be/b3ue9WL5fk8?si=pzk2dP9ACsYLnYB3)
 3. Next.js 14 Tutorial - 35 - Handling POST Request[POST Requestの操作](https://youtu.be/pzPS7Fn-8tE?si=fyCjJi6pmxvXtl6Q)
+4. Next.js 14 Tutorial - 36 - Dynamic Route Handlers[ダイナミックルートハンドラー](https://youtu.be/TGbC8F0gjC8?si=9PyB7crSiGHX3w7C)
 
 <hr>
 

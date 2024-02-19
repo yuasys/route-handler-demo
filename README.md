@@ -27,6 +27,7 @@ code . # vscodeを起動
 6. Next.js 14 Tutorial - 38 - Handling DELETE Request[デリートリクエストの操作](https://youtu.be/x3KCt1Oc278?si=viFLzJfDCC2TnrY1)
 7. Next.js 14 Tutorial - 39 - URL Query Parameters[URLクエリパラメータ](https://youtu.be/fuxSl-K0oI0?si=bndRt-Gu1pBHUmKQ)
 8. Next.js 14 Tutorial - 40 - Redirects in Route Handlers[ルート内でリダイレクト](https://youtu.be/54eKbXPrvuo?si=3qAltsQOWJWFpB1I)
+9. Next.js 14 Tutorial - 41 - Headers in Route Handlers[ルート操作のヘッダー](https://youtu.be/pxHbFrahyLY?si=zw78yidmlvpRZgOk)
 
 <hr>
 

@@ -20,6 +20,7 @@ code . # vscodeを起動
 ## 教材動画との関連
 
 1. Next.js 14 Tutorial - 33 - Route Handlers [ルートハンドラー](https://youtu.be/25yY2RVRq_M?si=2B4FznpNTQJ2Ye_i)
+2. Next.js 14 Tutorial - 34 - Handling GET Request [Get Requestの操作](https://youtu.be/b3ue9WL5fk8?si=pzk2dP9ACsYLnYB3)
 
 <hr>
 

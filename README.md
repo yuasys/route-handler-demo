@@ -25,6 +25,7 @@ code . # vscodeを起動
 4. Next.js 14 Tutorial - 36 - Dynamic Route Handlers[ダイナミックルートハンドラー](https://youtu.be/TGbC8F0gjC8?si=9PyB7crSiGHX3w7C)
 5. Next.js 14 Tutorial - 37 - Handling PATCH Request[パッチリクエストの操作](https://youtu.be/bDbBh7lEamE?si=flef-g07DlDcCKtd)
 6. Next.js 14 Tutorial - 38 - Handling DELETE Request[デリートリクエストの操作](https://youtu.be/x3KCt1Oc278?si=viFLzJfDCC2TnrY1)
+7. Next.js 14 Tutorial - 39 - URL Query Parameters[URLクエリパラメータ](https://youtu.be/fuxSl-K0oI0?si=bndRt-Gu1pBHUmKQ)
 
 <hr>
 

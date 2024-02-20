@@ -30,6 +30,7 @@ code . # vscodeを起動
 9. Next.js 14 Tutorial - 41 - Headers in Route Handlers[ルートハンドラーのヘッダー](Next.js 14 Tutorial - 41 - Headers in Route Handlers)
 10. Next.js 14 Tutorial - 42 - Cookies in Route Handlers[ルートハンドラーのクッキー](https://youtu.be/1qd3_OGL5Ko?si=Vt9p5sjD6Iy5qnGL)
 11. Next.js 14 Tutorial - 43 - Caching in Route Handlers[ルートハンドラーのキャッシュ](https://youtu.be/5_cJFYZSiDM?si=hsf2vSc55mGf0Ypj)
+12. Next.js 14 Tutorial - 44 - Middleware[ミドルウェア](https://youtu.be/xrvul-JrKFI?si=0m7nPBPHgZcrYv2Z)
 
 <hr>
 
